@@ -7,8 +7,16 @@ Rapid development of mobile devices and internet has made possible for us to acc
 
 Data source: https://www.kaggle.com/tomigelo/spotify-audio-features/
 
-steps to run the code :
-   1. open anaconda.
-    -   run jupyter notebook.
-    -   run all the file of .ipynb extension to your local machine.
     
+Steps to run codes:
+
+  1.  Run Anaconda-Navigator
+     1.    Open Jupyter-notebook.
+     2.    Open all the .ipynb file in your local machine.
+     3.    Run all the Cell.
+     4.    minimize it
+  
+  2.  Run XAMPP
+     1.    Configure for CGI-BIN python script.
+     2.    Start Server.
+     3.    Run index.html file.
