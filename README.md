@@ -25,5 +25,4 @@ Data source: https://www.kaggle.com/tomigelo/spotify-audio-features/
               <li>Start Server.</li>
               <li>Run index.html file.</li>
         </ol>
-
-    </ul>
+       </ul>
