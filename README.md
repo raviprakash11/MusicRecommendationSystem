@@ -33,19 +33,26 @@ Data source: https://www.kaggle.com/tomigelo/spotify-audio-features/
 
 
 ![ABOUT PAGE](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot2.png)
+
 ![CGI-BIN PAGE](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot8.png)
+
 ![VIEWSOURCE PAGE](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot4.png)
+
 ![TABLEOFCONTENT PAGE](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot3.png)
 
 ![READING RAW](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot7.png)
 
 ![HISTOGRAM](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot5.png)
+
 ![HISTOGRAM](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot6.png)
 
 
 ![K-Mean](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot9.png)
+
 ![K-Mean](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot10.png)
+
 ![K-Mean](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot11.png)
+
 ![K-Mean](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot12.png)
 
 ![K-Mean](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot13.png)
@@ -53,4 +60,5 @@ Data source: https://www.kaggle.com/tomigelo/spotify-audio-features/
 ![ShowingFeaturesOFSONGS](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot14.png)
 
 ![Popularity](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot16.png)
+
 ![Recommended songs](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot18.png)
