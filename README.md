@@ -30,4 +30,4 @@ Data source: https://www.kaggle.com/tomigelo/spotify-audio-features/
        </ul>
 
 ![screenshot](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot(150).png)
-![screenshot](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot(150).png)
+![screenshot](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot1.png)
