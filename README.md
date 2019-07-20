@@ -28,4 +28,3 @@ Data source: https://www.kaggle.com/tomigelo/spotify-audio-features/
               <li>Run index.html file.</li>
         </ol>
        </ul>
-![Home](https://github.com/raviprakash11/MusicRecommendationSystem/blob/master/screenshot/Screenshot%20(150).png)
